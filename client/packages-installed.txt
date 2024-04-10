@@ -1,0 +1,18 @@
+npm install --save redux-promise axios react-router-dom redux react-redux react-bootstrap bootstrap react-router-bootstrap react-toastify
+npm install --save redux-promise 
+npm install --save axios 
+npm install --save react-router-dom 
+npm install --save redux 
+npm install --save react-redux 
+npm install --save react-bootstrap 
+npm install --save bootstrap 
+npm install --save react-router-bootstrap 
+npm install --save react-toastify
+npm install react-responsive-masonry --save
+npm install --save moment react-moment
+npm install formik --save
+ npm install yup --save
+
+
+To Install server ---> npm install -g json-server
+To Watch server ---> npx json-server --watch db.json

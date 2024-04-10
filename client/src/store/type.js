@@ -1,0 +1,12 @@
+export const GET_POST = "get_posts";
+export const ADD_NEWS_LETTER = "add_news_letter";
+export const REMOVE_NEWS_LETTER = "remove_news_letter";
+export const VIEW_POST = "view_post";
+export const REMOVE_VIEW_POST = "remove_view_post";
+export const GET_NEWS_LETTER_MONGO = "get_news_letter_mongo";
+export const ADD_NEWS_LETTER_MONGO = "add_news_letter_mongo";
+export const EDIT_NEWS_LETTER_MONGO = "edit_news_letter_mongo";
+export const UPDATE_NEWS_LETTER_MONGO = "update_news_letter_mongo";
+export const REMOVE_NEWS_LETTER_MONGO = "remove_news_letter_mongo";
+export const RESET_ACTION_STATUS = "reset_action_status";
+export const RESET_EDIT_NEWS_LETTER = "reset_edit_news_letter";

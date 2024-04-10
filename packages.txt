@@ -1,0 +1,6 @@
+npm install express
+npm install body-parser
+npm install -g nodemon
+npm install -g concurrently
+npm install mongodb
+npm install mongoose@6.6.1 --save
